@@ -43,7 +43,7 @@ transition: 0.5s;
     bottom: -5px;
     background: linear-gradient(45deg,#ff0047,#6eff00 );
     pointer-events: none;
-    animation: animate 10s linear infinite;
+    animation: animate 5s linear infinite;
 }
 @keyframes animate{
     0%
